@@ -1,0 +1,297 @@
+//Jared Madden
+//CPSC233
+//Assignment 3
+//TA: S. Pratte
+
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+1
+What kind of shape would you like to create:
+1. Rectangle
+2. Circle
+1
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+1
+What kind of shape would you like to create:
+1. Rectangle
+2. Circle
+2
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+1
+What kind of shape would you like to create:
+1. Rectangle
+2. Circle
+2
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+2
+Please input which shape you would like to adjust the origin of:
+1:class Rectangle
+2:class Circle
+3:class Circle
+1
+Please input the x and y coordinates for the Rectangle:
+1 1
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+2
+Please input which shape you would like to adjust the origin of:
+1:class Rectangle
+2:class Circle
+3:class Circle
+2
+Please input the x and y coordinates for the Rectangle:
+2 2
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+3
+Please input which shape you would like to adjust the dimensions of:
+1:class Rectangle
+2:class Circle
+3:class Circle
+2
+Please input the radius of the circle: 
+5
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+4
+Which shape would you like to see the state of? 
+1:class Rectangle
+2:class Circle
+3:class Circle
+1
+Shape = Rectangle 
+length = 0.0
+width = 0.0
+ Origin: PointID: 1
+ X: 1.0 Y: 1.0
+ Active instances: 3
+ Area: 0.0
+ Circumference: 0.0
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+4
+Which shape would you like to see the state of? 
+1:class Rectangle
+2:class Circle
+3:class Circle
+2
+Shape = Circle 
+Radius = 5.0
+ Origin: PointID: 2
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 78.53981633974483
+ Circumference: 31.41592653589793
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+5
+Which object would you like to move?
+1:class Rectangle
+2:class Circle
+3:class Circle
+1
+Please input the deltaX and deltaY coordinates(separated by a space):
+1 1
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+4
+Which shape would you like to see the state of? 
+1:class Rectangle
+2:class Circle
+3:class Circle
+1
+Shape = Rectangle 
+length = 0.0
+width = 0.0
+ Origin: PointID: 1
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 0.0
+ Circumference: 0.0
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+6
+Which objects would you like to compare(type in the first then the second)?
+1:class Rectangle
+2:class Circle
+3:class Circle
+1
+2
+Distance = 0.0
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+8
+1:Shape = Rectangle 
+length = 0.0
+width = 0.0
+ Origin: PointID: 1
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 0.0
+ Circumference: 0.0
+2:Shape = Circle 
+Radius = 5.0
+ Origin: PointID: 2
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 78.53981633974483
+ Circumference: 31.41592653589793
+3:Shape = Circle 
+Radius = 0.0
+ Origin: PointID: 3
+ X: 0.0 Y: 0.0
+ Active instances: 3
+ Area: 0.0
+ Circumference: 0.0
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+7
+Which object would you like to remove?
+1:class Rectangle
+2:class Circle
+3:class Circle
+3
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+8
+1:Shape = Rectangle 
+length = 0.0
+width = 0.0
+ Origin: PointID: 1
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 0.0
+ Circumference: 0.0
+2:Shape = Circle 
+Radius = 5.0
+ Origin: PointID: 2
+ X: 2.0 Y: 2.0
+ Active instances: 3
+ Area: 78.53981633974483
+ Circumference: 31.41592653589793
+Please enter the number of the option you wish to do: 
+1. Create a rectangle or circle object(Up to a maximum of 10 objects).
+2. Set the origin for any of the created objects.
+3. Set the dimensions for any of the created objects.
+4. Display the current state of the object.
+5. Move the origin point of the object based on values you enter.
+6. Compute and display the distance between the origin points of 2 objects.
+7. Destroy an object.
+8. List the current state of all objects in the array.
+9. Quit the program.
+9

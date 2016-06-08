@@ -1,0 +1,25 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Sedan s1 = new Sedan("Red", "Honda", "Civic");
+		Sedan s2 = new Sedan("Blue", "Mazda", "Mazda3");
+		Coupe c1 = new Coupe("Black", "Honda", "Prelude");
+		Coupe c2 = new Coupe("Silver", "Porsche", "911 Turbo");
+		Sedan s3 = new Sedan("Green", "Maserati", "Quattro Porte");
+		
+		Person p = new Person("Bob");
+		
+		p.setCar(s1); //upcasting example
+		p.setCar((Car)s2);
+		p.setCar(c1);
+		p.setCar(c2);
+		p.setCar(s3);
+		
+		p.printCarInformation();
+		
+						
+	}
+
+}

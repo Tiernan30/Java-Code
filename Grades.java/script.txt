@@ -1,0 +1,41 @@
+Jared Madden
+ID# 30008241
+
+Sample output:
+
+
+Please enter your course code: 233
+Please enter your grade between 0 and 100(-1 or less to end).200
+Not a valid grade, please enter your grade between 0 and 100(-1 or less to end).150
+Not a valid grade, please enter your grade between 0 and 100(-1 or less to end).100
+Please enter your grade between 0 and 100(-1 or less to end).95
+Please enter your grade between 0 and 100(-1 or less to end).89
+Please enter your grade between 0 and 100(-1 or less to end).84
+Please enter your grade between 0 and 100(-1 or less to end).78
+Please enter your grade between 0 and 100(-1 or less to end).73
+Please enter your grade between 0 and 100(-1 or less to end).69
+Please enter your grade between 0 and 100(-1 or less to end).62
+Please enter your grade between 0 and 100(-1 or less to end).58
+Please enter your grade between 0 and 100(-1 or less to end).51
+Please enter your grade between 0 and 100(-1 or less to end).49
+Please enter your grade between 0 and 100(-1 or less to end).44
+Please enter your grade between 0 and 100(-1 or less to end).0
+Please enter your grade between 0 and 100(-1 or less to end).200
+Not a valid grade, please enter your grade between 0 and 100(-1 or less to end).-200
+Course: 233
+Total grades enter: 13
+Min Grade: 0
+Max Grade: 100
+A:  2
+A-: 1
+B+: 1
+B:  1
+B-: 1
+C+: 1
+C:  1
+C-: 1
+D+: 1
+D:  1
+F:  2
+Average grade: 65.53846153846153(C+)
+
