@@ -53,23 +53,30 @@ public class postfixCalculator {
 			//else check if the next element is "+"
 			else if(s2.peek().equals('+')){
 				s2.pop();						//If so, pop that element
-				s1.push((Integer)s1.pop() + (Integer)s1.pop());	//Pop the top two elements of s1 as integers and add, pushing them back into s1
-				
+				int sum1 = (Integer)s1.pop();	//Pop the top two elements of s1 as integers
+				int sum2 = (Integer)s1.pop();
+				s1.push(sum2+sum1);				//Push the result of the addition to s1
 			
 				//else check if the next element is "-"
 			}else if(s2.peek().equals('-')){
 				s2.pop();							//If so, pop that element
-				s1.push((Integer)s1.pop() - (Integer)s1.pop());	//Pop the top two elements of s1 as integers and subtract, pushing them back into s1
+				int sub1 = (Integer)s1.pop();   	//Pop the top two elements of s1 as integers
+				int sub2 = (Integer)s1.pop();
+				s1.push(sub2 - sub1);				//Push the result of the subtraction to s1
 			
 				//else check if the next element is "*"
 			}else if(s2.peek().equals('*')){
 				s2.pop();							//If so, pop that element
-				s1.push((Integer)s1.pop() * (Integer)s1.pop());	//Pop the top two elements of s1 as integers and multiply, pushing them back into s1
+				int multi1 = (Integer)s1.pop();  //Pop the top two elements of s1 as integers
+				int multi2 = (Integer)s1.pop();
+				s1.push(multi2 * multi1);				//Push the result of the multiplication to s1
 			
 				//else check if the next element is "/"
 			}else if(s2.peek().equals('/')){
 				s2.pop();						//If so, pop that element
-				s1.push((Integer)s1.pop() / (Integer)s1.pop());	//Pop the top two elements of s1 as integers and divide, pushing them back into s1
+				int div1 = (Integer)s1.pop();		//Pop the top two elements of s1 as integers 
+				int div2 = (Integer)s1.pop();
+				s1.push(div2 / div1);			//Push the result of the division to s1
 				
 				//else check if the next element of s2 is not an operand, it must be an integer
 			}else{
@@ -78,4 +85,5 @@ public class postfixCalculator {
 		}
 		System.out.println("Final result: " + s1.pop());		//Once the while loop has exited, print the result
 	}
+
 }
